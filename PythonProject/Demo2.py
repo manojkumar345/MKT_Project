@@ -1,1 +1,0 @@
-print("My name is Python programming")
